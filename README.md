@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AlvaroGarnicaBarco
 - 👀 I’m interested in Data Science, Web development
-- 🌱 I’m currently learning Python, Django, DRF, Statistics, and many more..
+- 🌱 I’m currently learning Python, Machine Learning, Statistics, Django, DRF, and many more..
 - 📫 Email: alvarogarnica1997@gmail.com
 - :mag_right: LinkedIn profile: https://www.linkedin.com/in/alvaro-garnica-barco-47006b185/
 
